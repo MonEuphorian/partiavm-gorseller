@@ -1,0 +1,15 @@
+{
+  "model": "PRT-WP-6178",
+  "durum": "taslak",
+  "karakter": "Unicorn folyo balon (103x78 cm)",
+  "rakam_balon": {"renk": "pastel pembe (IKM)", "boy": "76 cm (34 inç)"},
+  "latex_25cm": {"pembe": 4, "beyaz": 4, "makaron lila": 3, "konfetili seffaf (pembe benekli)": 3},
+  "gorsel_boyutu": "1200x1800 px (2:3)",
+  "dosyalar": {
+    "<n>/1.png": "sahne, rakam n",
+    "ortak/2_paket_icerigi.png": "paket içeriği",
+    "ortak/3_karakter.png": "karakter tek",
+    "ortak/4_rakamlar_1-9.png": "1-9 rakamlar",
+    "ortak/5_yakin_plan.png": "yakın plan"
+  }
+}
