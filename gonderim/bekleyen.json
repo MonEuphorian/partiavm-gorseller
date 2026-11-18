@@ -1,0 +1,59 @@
+{
+ "items": [
+  {
+   "barcode": "PRT-WP-6178-R1",
+   "title": "Unicorn Folyo Balon Seti Helyum Uyumlu Doğum Günü Pembe 1 Rakam Folyo Balon Seti",
+   "productMainId": "PRT-WP-6178",
+   "stockCode": "PRT-WP-6178-R1",
+   "brandId": 991414,
+   "categoryId": 2926,
+   "quantity": 0,
+   "description": "Unicorn temalı doğum günü süsü arayanlar için hazırlanan bu folyo balon seti, kız çocukları için pembe, beyaz ve lila tonlarda bir doğum günü konsepti oluşturur.\n\nİçerik:\n- 1 adet unicorn folyo balon (103x78 cm)\n- 1 adet pembe rakam folyo balon (seçtiğiniz rakam, 34 inç, şişince yaklaşık 76 cm)\n- 4 adet pembe lateks balon (25 cm)\n- 4 adet beyaz lateks balon (25 cm)\n- 3 adet makaron lila lateks balon (25 cm)\n- 3 adet konfetili şeffaf lateks balon (25 cm)\n\nNot: Folyo balonlar helyuma uyumludur. Balonlar şişirilmemiş olarak gönderilir, helyum ve ağırlık ürüne dahil değildir. Görselde yer alan dekor ve banner ürüne dahil değildir.\n\nHavayla şişirilebilir, helyumla da kullanılabilir. Doğum günü süsü, kız çocuk doğum günü konsepti, pembe rakam balon, unicorn folyo balon ve doğum günü balon seti arayanlar için uygundur.",
+   "currencyType": "TRY",
+   "listPrice": 504,
+   "salePrice": 504,
+   "vatRate": 20,
+   "shipmentAddressId": 5746122,
+   "returningAddressId": 5746123,
+   "images": [
+    {
+     "url": "https://moneuphorian.github.io/partiavm-gorseller/urunler/PRT-WP-6178/1/1.png"
+    },
+    {
+     "url": "https://moneuphorian.github.io/partiavm-gorseller/urunler/PRT-WP-6178/ortak/2_paket_icerigi.png"
+    },
+    {
+     "url": "https://moneuphorian.github.io/partiavm-gorseller/urunler/PRT-WP-6178/ortak/3_karakter.png"
+    },
+    {
+     "url": "https://moneuphorian.github.io/partiavm-gorseller/urunler/PRT-WP-6178/ortak/4_rakamlar_1-9.png"
+    },
+    {
+     "url": "https://moneuphorian.github.io/partiavm-gorseller/urunler/PRT-WP-6178/ortak/5_yakin_plan.png"
+    }
+   ],
+   "attributes": [
+    {
+     "attributeId": 814,
+     "attributeValueId": 310763
+    },
+    {
+     "attributeId": 1192,
+     "attributeValueId": 10617344
+    },
+    {
+     "attributeId": 47,
+     "customAttributeValue": "Pembe1 Rakam"
+    },
+    {
+     "attributeId": 348,
+     "attributeValueId": 7007
+    },
+    {
+     "attributeId": 1216,
+     "customAttributeValue": "RPS balon"
+    }
+   ]
+  }
+ ]
+}
